@@ -61,7 +61,7 @@ As observed,
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wji7qjomq3crfz1vu0r5.jpg) |
 | --------- |
 
-In order to be able to create Full Scope PAT, below actions should be taken:-
+In order to be able to create Full Scoped PAT, below actions should be taken:-
 
 1. Keep the Policy enabled but add one or more User account/Identity in the allow list; __OR__
 2. Disable the Policy.
